@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mercadolibre-95ac5",
+  "private_key_id": "5c42f3ce0182bcc60f6fea9cc0f6f266dd48fde7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCD+IZDJVObJip\niXW5T7hVkyVhfHqDRUDbu/xYAUH6x3PVSqM89Unq4dTQV+HT3ogy7v6T2Fs2523M\nha8zsfFic8UR0SXsxPsCVAHOgFLtMqywNSTAn+7zPl8gFc/ZhDvrrNqaFE/GaCSC\nvLJSqEV6YeQIkDy3PUiaBAqQtAyoXfHw1ddj6a3SkohnOQgD+gGytOkw9rWBgmJF\neGMsb5hZLh6U+KJVPfHIikLZnBugsPAuNZOqBoY3cuiAB02PxnxkmFdjkLnQ3pIq\nIQHkWPupvJAdcqTjbejjNhGoryWcPP0vGqX9qOZuhZPaUWnqmt8A6dc64dP5W2iR\nXwlrc8U5AgMBAAECggEAAz5cUbDdJs3ReDWQKyqPv5ZrCVSys4XLAYed1/BSPjME\ncGwD8hCwTWW8g3leKlPNqpRGDj1cIPAzUwTOmqpk73e7gBwjA/Cy677XUBbi/yXz\ne8QXoV4xX0ClB5Z1vk8wggFTBUCrqK3nvLh5fo1jdxn/XSLg11GfgghPqOWDHj+t\n3PTKR3nIOblKhez9JYLNHqPpaC14E63bNE/Ol5Nvdm8CakW+p5EfUgjYTUB+Loko\n/WqCwEN5S15oSKzkb0lqwoUv68O7GrGD/PgYAAVoq91Qi78dijYFZ/aJbxxU3JfV\nNbw/SdavDiiddbOLZn/FUtvX0427llyE8RUaAlGtkQKBgQDvjGcdTTjRU9KaNa9l\nuuyhDFgZIVPUQVMb2UPEw8+sa7ehzl4OTTNKSjBDjE/pzo8vptlk7B58oFmhsLSh\ncsOrb3V4xV8ETgrnNHrt2ktG2NeSDig3Sa5c1Lq16GU0xAsHxuLBf7Hfc49zU6TL\nOi7cM5KkuX9jWDFx1dDUo9H6VQKBgQDPY8QFU3yI2dIOER64dsbui6qIJxUaGYup\nkVCvkQyV0I9jkDTvDn9Ml7F246oW2DjEFi1DLHFfQaHvSqGLlia/xYUEEZXb1Tn2\n8MS/XVgAtMJ+xRk8ijFPe+pqXrOs2qZ7p4n2y1/YXqSzN/YqkxNKltk16xNGTpgz\nlsKgyxILVQKBgQCkjyIi6fKXMmshzrFwRCncNJusn81zqXCLWASK/i0C+HiMqjTI\nxFXwuehP7urS5jhM9uSuxNnoqUsJnVdo9WrfsVDUp1mvnmE1FUNBdE10HPByAFG2\nMWKbmPOulTg5OFePfxw06yDpLPylsBcsGQsp8C/UAy40s9g7qDOub9+GhQKBgQCz\ncozTWvjf5THncBLX5BafpAQLyV1t9vqs34skTurH2u2nZckXrMCjgoJQ8A9lsvPz\nX4kMnbD/jmfTCQ2dHXAr8Xn2Gk1EKUz9ijmDp/4UplPAo0UB6EVglEUygv0PLSZu\nynoLLNCjBMmYNWzwS9CecsZB7EUCSdFSmjmQLgZP/QKBgDfOH7rA16P4TYGK8YTq\nC+Uk29XpzEtLvTjvTkCKx7Xm41wGEBRXNVkKDF5G3GZJi6UnOpRCcxMbXA0t0K/L\nrh2j8sXAg6pt7CUNQKZYrsqX49tvxb2JYyBcITK9Dzn/yQM4RYhVV4wHQ8M/52/Y\naxH8ZAMWLxGmV1/mWl/yEc66\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-k7yen@mercadolibre-95ac5.iam.gserviceaccount.com",
+  "client_id": "113421546562741849699",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-k7yen%40mercadolibre-95ac5.iam.gserviceaccount.com"
+}
